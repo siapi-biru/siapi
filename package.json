@@ -54,16 +54,16 @@
     "resolve-cwd": "^3.0.0",
     "rimraf": "^3.0.2",
     "semver": "7.3.5",
-    "siapi-database": "github:siapi-biru/siapi-database#v3.6.5",
-    "siapi-generate": "github:siapi-biru/siapi-generate#v3.6.5",
-    "siapi-generate-api": "github:siapi-biru/siapi-generate-api#v3.6.5",
-    "siapi-generate-controller": "github:siapi-biru/siapi-generate-controller#v3.6.5",
-    "siapi-generate-model": "github:siapi-biru/siapi-generate-model#v3.6.5",
-    "siapi-generate-new": "github:siapi-biru/siapi-generate-new#v3.6.5",
-    "siapi-generate-plugin": "github:siapi-biru/siapi-generate-plugin#v3.6.5",
-    "siapi-generate-policy": "github:siapi-biru/siapi-generate-policy#v3.6.5",
-    "siapi-generate-service": "github:siapi-biru/siapi-generate-service#v3.6.5",
-    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5"
+    "siapi-database": "github:siapi-biru/siapi-database",
+    "siapi-generate": "github:siapi-biru/siapi-generate",
+    "siapi-generate-api": "github:siapi-biru/siapi-generate-api",
+    "siapi-generate-controller": "github:siapi-biru/siapi-generate-controller",
+    "siapi-generate-model": "github:siapi-biru/siapi-generate-model",
+    "siapi-generate-new": "github:siapi-biru/siapi-generate-new",
+    "siapi-generate-plugin": "github:siapi-biru/siapi-generate-plugin",
+    "siapi-generate-policy": "github:siapi-biru/siapi-generate-policy",
+    "siapi-generate-service": "github:siapi-biru/siapi-generate-service",
+    "siapi-utils": "github:siapi-biru/siapi-utils"
   },
   "scripts": {
     "postinstall": "node lib/utils/success.js"
